@@ -128,9 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
+.idea/
 .ipynb_checkpoints
-/share/
-/pyvenv.cfg
-/etc/
-/Scripts/
+share/
+pyvenv.cfg
+etc/
+Scripts/
+
+pyvenv.cfg
